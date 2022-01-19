@@ -3,7 +3,7 @@
 ```
   tar -xzf Dolphin5.0-15906.tgz
 ```
-* [Flycast](https://github.com/flyinghead/flycast) [^1] [^2] - Sega Dreamcast, Naomi and Atomiswave emulator; details at the [official website](https://github.com/TheArcadeStriker/flycast-wiki/wiki) 
+* [Flycast.v.1.2](https://github.com/flyinghead/flycast) [^1] - Sega Dreamcast, Naomi and Atomiswave emulator; details at the [official website](https://github.com/TheArcadeStriker/flycast-wiki/wiki) 
 ```
   tar -xzf Dolphin5.0-15906.tgz
 ```
@@ -17,4 +17,3 @@
  sudo apt-get install -f
 ```
 [^1]: You'll need to move the files into their proper locations! This is just an archive based on the install_manifest.txt produced during build/install.
-[^2]: Unknown version label, but I built it on 1/18/2022 from the latest sources.
