@@ -1,11 +1,11 @@
 # emulators
-* [Dolphin 5.0-15906](https://github.com/dolphin-emu/dolphin) - GameCube / Wii emulator, more details at the [official website](https://dolphin-emu.org/)
+* [Dolphin 5.0-15906](https://github.com/dolphin-emu/dolphin) [^1] - GameCube / Wii emulator, more details at the [official website](https://dolphin-emu.org/) 
 ```
-  tar -xzf Dolphin5.0-15906.tgz [^1]
+  tar -xzf Dolphin5.0-15906.tgz
 ```
 * [Stella 6.6](https://github.com/stella-emu/stella) - Atari 2600 emulator, more details at the [official website](https://stella-emu.github.io/)
 ```
  sudo dpkg -i stella_6.6_arm64.deb
  sudo apt-get install -f
 ```
-[^1]: * You'll need to move the files into their proper locations! This is just an archive based on the install_manifest.txt produced during build/install.
+[^1]: You'll need to move the files into their proper locations! This is just an archive based on the install_manifest.txt produced during build/install.
