@@ -3,7 +3,7 @@
 ```
   tar -xzf Dolphin5.0-15906.tgz
 ```
-* [Flycast v1.2](https://github.com/flyinghead/flycast) [^1] - Sega Dreamcast, Naomi and Atomiswave emulator; details at the [official website](https://github.com/TheArcadeStriker/flycast-wiki/wiki) 
+* [Flycast v1.2-217-g8ee9f1b1](https://github.com/flyinghead/flycast) [^1] - Sega Dreamcast, Naomi and Atomiswave emulator; details at the [official website](https://github.com/TheArcadeStriker/flycast-wiki/wiki) 
 ```
   tar -xzf Dolphin5.0-15906.tgz
 ```
