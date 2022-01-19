@@ -3,11 +3,11 @@
 ```
   tar -xzf Dolphin5.0-15906.tgz
 ```
-* [Flycast.v.1.2](https://github.com/flyinghead/flycast) [^1] - Sega Dreamcast, Naomi and Atomiswave emulator; details at the [official website](https://github.com/TheArcadeStriker/flycast-wiki/wiki) 
+* [Flycast v1.2](https://github.com/flyinghead/flycast) [^1] - Sega Dreamcast, Naomi and Atomiswave emulator; details at the [official website](https://github.com/TheArcadeStriker/flycast-wiki/wiki) 
 ```
   tar -xzf Dolphin5.0-15906.tgz
 ```
-* [PPSSPPSDL.v1.12.3-722-gb1d158e3e](https://github.com/hrydgard/ppsspp) [^1] - PSP emulator; details at the [official website](https://www.ppsspp.org/) 
+* [PPSSPPSDL v1.12.3-722-gb1d158e3e](https://github.com/hrydgard/ppsspp) [^1] - PSP emulator; details at the [official website](https://www.ppsspp.org/) 
 ```
   tar -xzf Dolphin5.0-15906.tgz
 ```
