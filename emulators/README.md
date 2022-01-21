@@ -9,7 +9,7 @@
 ```
 * [MAME v0.239 (mame0239-192-g70295eff162)](https://github.com/mamedev/mame) [^2] - Multiple Arcade Machine Emulator; details at the [official website](https://github.com/TheArcadeStriker/flycast-wiki/wiki) 
 ```
-  tar -xzf MAME.0239.tgz
+  tar -xzf MAME0239-192-g70295eff162.tgz
 ```
 * [PPSSPPSDL v1.12.3-722-gb1d158e3e](https://github.com/hrydgard/ppsspp) [^1] - PSP emulator; details at the [official website](https://www.mamedev.org/) 
 ```
