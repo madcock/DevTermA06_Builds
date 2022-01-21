@@ -1,4 +1,4 @@
-# emulators
+# emulators (standalone)
 * [Dolphin 5.0-15906](https://github.com/dolphin-emu/dolphin) [^1] - GameCube / Wii emulator; details at the [official website](https://dolphin-emu.org/) 
 ```
   tar -xzf Dolphin5.0-15906.tgz
