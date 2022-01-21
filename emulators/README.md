@@ -7,7 +7,7 @@
 ```
   tar -xzf Dolphin5.0-15906.tgz
 ```
-* [MAME v0.239 (mame0239-192-g70295eff162)](https://github.com/mamedev/mame) - Multiple Arcade Machine Emulator; details at the [official website](https://github.com/TheArcadeStriker/flycast-wiki/wiki) 
+* [MAME v0.239 (mame0239-192-g70295eff162)](https://github.com/mamedev/mame) [^2] - Multiple Arcade Machine Emulator; details at the [official website](https://github.com/TheArcadeStriker/flycast-wiki/wiki) 
 ```
   tar -xzf Dolphin5.0-15906.tgz
 ```
@@ -21,4 +21,4 @@
  sudo apt-get install -f
 ```
 [^1]: You'll need to move the files into their proper locations! This is just an archive based on the install_manifest.txt produced during build/install.
-[^2]: Built as "mamearcade" -- does NOT include MESS.
+[^2]: Built as "mamearcade" -- does NOT include MESS. Packaged with MAME 0.239 distribution files from the Windows version.
