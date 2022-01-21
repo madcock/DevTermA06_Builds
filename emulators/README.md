@@ -21,4 +21,4 @@
  sudo apt-get install -f
 ```
 [^1]: You'll need to move the files into their proper locations! This is just an archive based on the install_manifest.txt produced during build/install.
-[^2]: Built as "mamearcade" -- does NOT include MESS. Also does not include the additional tools. Packaged with MAME 0.239 distribution files from the Windows version.
+[^2]: Built as "mamearcade" -- does NOT include MESS. Also does not include the additional tools. Packaged with MAME 0.239 distribution files from the Windows version. This seems slightly slower compared to the [libretro core](https://github.com/madcock/DevTermA06_Builds/tree/main/libretro).
