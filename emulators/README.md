@@ -7,7 +7,11 @@
 ```
   tar -xzf Dolphin5.0-15906.tgz
 ```
-* [PPSSPPSDL v1.12.3-722-gb1d158e3e](https://github.com/hrydgard/ppsspp) [^1] - PSP emulator; details at the [official website](https://www.ppsspp.org/) 
+* [MAME v0.239 (mame0239-192-g70295eff162)](https://github.com/mamedev/mame) - Multiple Arcade Machine Emulator; details at the [official website](https://github.com/TheArcadeStriker/flycast-wiki/wiki) 
+```
+  tar -xzf Dolphin5.0-15906.tgz
+```
+* [PPSSPPSDL v1.12.3-722-gb1d158e3e](https://github.com/hrydgard/ppsspp) [^1] - PSP emulator; details at the [official website](https://www.mamedev.org/) 
 ```
   tar -xzf Dolphin5.0-15906.tgz
 ```
@@ -17,3 +21,4 @@
  sudo apt-get install -f
 ```
 [^1]: You'll need to move the files into their proper locations! This is just an archive based on the install_manifest.txt produced during build/install.
+[^2]: Built as "mamearcade" -- does NOT include MESS.
