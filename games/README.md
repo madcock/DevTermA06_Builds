@@ -8,6 +8,10 @@
 ```
  cat KoiFarm-linux-arm64.tgz.part* | tar -xz
 ```
+* [Last Train Home](https://github.com/monolifed/lth) - from [hby](https://hby.itch.io/last-train-home)
+```
+ tar -xzf LastTrain.tgz
+```
 * [MightyMike](https://github.com/jorio/MightyMike) - from [Pangea Software](https://pangeasoft.net/) and [Iliyas Jorio](https://github.com/jorio)
 ```
  tar -xzf MightyMike.tgz
